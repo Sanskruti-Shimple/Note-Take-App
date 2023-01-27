@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497546524281",
+    "project_id": "note-take-e4507",
+    "storage_bucket": "note-take-e4507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497546524281:android:e02ec064b939df37abc6a8",
+        "android_client_info": {
+          "package_name": "com.example.notetake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497546524281-drko51flciv496gavoonoosp9vgflthf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBswLKkQqmdTp5qyX3qlVF0eG46JI6tIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497546524281-drko51flciv496gavoonoosp9vgflthf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
